@@ -1,0 +1,24 @@
+{
+  "name" : "Publisher1",
+  "ip" : "192.168.1.5",
+  "inport" : 2060,
+  "artistsRange" : [ "A", "L" ],
+  "datasetPoolPath": "L:\\home\\tmk\\Documents\\@@@cs.aueb.notes\\@_1_ΚΑΤΑΝΕΜΗΜΕΝΑ_ΣΥΣΤΗΜΑΤΑ\\Project\\dataset1\\dataset1",
+  "brokers" : [
+    {
+      "name" : "Broker1",
+      "ip" : "192.168.1.5",
+      "inport" : 2056
+    },
+    {
+      "name" : "Broker2",
+      "ip" : "192.168.1.5",
+      "inport" : 2057
+    },
+    {
+      "name" : "Broker3",
+      "ip" : "192.168.1.40",
+      "inport" : 2058
+    }
+  ]
+}

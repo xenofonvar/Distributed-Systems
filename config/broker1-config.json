@@ -1,0 +1,17 @@
+{
+  "name": "Broker1",
+  "ip": "192.168.1.5",
+  "inport": 2056,
+  "neighbors" : [
+    {
+      "name" : "Broker2",
+      "ip" : "192.168.1.5",
+      "inport" : 2057
+    },
+    {
+      "name" : "Broker3",
+      "ip" : "192.168.1.5",
+      "inport" : 2058
+    }
+  ]
+}
